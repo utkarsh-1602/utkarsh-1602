@@ -25,18 +25,14 @@
 - ⚡ Fun fact **Open Source is Really Interesting !**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ft_utkarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ft_utkarsh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/utkarsh-hadgekar-9a0b411a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarshhadgekar" height="30" width="40" /></a>
-<a href="https://instagram.com/utkarshh16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utkarshh16" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/utkarsh_uh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarsh_uh" height="30" width="40" /></a>
-</p>
+Twitter: @hey_utkarshh
+Linkedin: Utkarsh Hadgekar 
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-  Solidity
-  Javascript
-  Java
+  Solidity, 
+  Javascript, 
+  Java, 
   C++
 
   Tech Stack:
