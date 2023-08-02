@@ -13,7 +13,7 @@
 
 - 🤝 I’m good at Project Management, System Architecture, System Design, Leadership & Decision making and Collaborative Communication.
 
-- 👨‍💻 My Portfolio & Projects [Portfolio](https://utkarshhadgekar-portfolio.vercel.app/)
+- 👨‍💻 My Portfolio & Projects [(Portfolio)](https://utkarshhadgekar-portfolio.vercel.app/)
 
 - 📝 I'm active on Twitter, I tweet about A.I, Podcasts, Books, Personal-Development. [https://twitter.com/hey_utkarshh](https://twitter.com/hey_utkarshh)
 
