@@ -7,7 +7,7 @@
 
 - 🔭 An experienced **solidity developer** with expertise in understanding and delivering software solutions based on business requirements.
 
-- 🌱 My interest lies in NFTs, Marketplaces, Defi, CBDC and Blockchain development in General
+- 🌱 My interest lies in NFTs, DAOs, Defi, Blockchain development and Security
 
 - 👯 I’m Exploring the World of **A.I** and Looking to Collaborate on it. 
 
