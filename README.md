@@ -25,10 +25,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarsh-1602&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh-1602&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh-1602&label=Profile%20views&color=0e75b6&style=flat" alt="xv" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh-1602&show_icons=true&locale=en&layout=compact" alt="xv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh-1602&show_icons=true&locale=en" alt="xv" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-1602&" alt="xv" /></p>
 
 ###  Tech Stack 
 
