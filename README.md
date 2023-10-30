@@ -7,17 +7,17 @@
 
 - 🔭 A **Full stack Developer** with expertise in understanding and delivering software solutions based on business requirements.
 
-- 🌱 My interest lies in NFTs, DAOs, Defi, Blockchain development and Security
+- 🌱 My interest lies in AI, Automation, DevOps and Security.
 
-- 👯 I’m Exploring the World of **A.I** and Looking to Collaborate on it. 
+- 👯 I’m Exploring the World of **DevOps** and Looking to Collaborate on it. 
 
 - 🤝 I’m good at Project Management, System Architecture, System Design, Leadership & Decision making and Collaborative Communication.
 
 - 👨‍💻 My Portfolio & Projects [(Portfolio)](https://utkarshhadgekar-portfolio.vercel.app/)
 
-- 📝 I'm active on Twitter, I tweet about A.I, Podcasts, Books, Personal-Development. [https://twitter.com/hey_utkarshh](https://twitter.com/hey_utkarshh)
+- 📝 I'm active on Twitter, I tweet about A.I, Startups, Podcasts, Books, Personal-Development. [https://twitter.com/hey_utkarshh](https://twitter.com/hey_utkarshh)
 
-- 💬 Ask me about **Blockchain, Full-stack, Self-Improvement, Podcasts, Books, Travel & Life-Experiences !**
+- 💬 Ask me about **AI, Full-stack, Self-Improvement, Podcasts, Books, Travel & Life-Experiences !**
 
 - 📫 How to reach me **utkarshuh16@gmail.com**
 
