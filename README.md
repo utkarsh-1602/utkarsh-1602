@@ -7,7 +7,7 @@
 
 - 🔭 A **Full stack Developer** with expertise in understanding and delivering software solutions based on business requirements.
 
-- 🌱 My interest lies in AI, Automation, DevOps and Security.
+- 🌱 My interest lies in AI, Automation, DevOps and Web Security.
 
 - 👯 I’m Exploring the World of **DevOps** and Looking to Collaborate on it. 
 
