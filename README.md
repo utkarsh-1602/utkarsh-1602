@@ -40,7 +40,7 @@
     <img align="center" src="https://skillicons.dev/icons?i=typescript,c,cpp,py,java,html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,mysql,postgres,mongodb,git,github,firebase,appwrite,ps,figma,discord,vite,linux,docker,redux,solidity" />
   </a>
 
-###
+### Reach Out
 
 <img align="right" height="150" src="https://media.tenor.com/5UGuQ1T3DDsAAAAC/naruto-anime.gif"  />
 
