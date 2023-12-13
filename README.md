@@ -30,6 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh-1602&show_icons=true&locale=en" alt="xv" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-1602&" alt="xv" /></p>
 
+[![An image of @utkarsh1602's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utkarsh1602)](https://holopin.io/@utkarsh1602)
 ###  Tech Stack 
 
 <div align="left">
