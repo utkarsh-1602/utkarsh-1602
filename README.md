@@ -23,6 +23,8 @@
 
 - ⚡ Fun fact **You can learn a lot from a book, it's the way how you Implement it.**
 
+- 🍄 Pro Approach: **In Every Project I've created Issues (closed/open) which help me to document every piece of Code useful for anytime Revision.**
+
 ###
 
 <p align="left"> 
