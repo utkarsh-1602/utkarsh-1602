@@ -11,7 +11,7 @@
 
 - 👯 I’m Exploring the World of **DevOps** and Looking to Collaborate on it. 
 
-- 🤝 I’m good at Project Management, System Architecture, System Design, Leadership & Decision making and Collaborative Communication.
+- 🤝 I’m good at Project Management, System Architecture, Leadership & Decision making and Collaborative Communication.
 
 - 👨‍💻 My Portfolio & Projects [(Portfolio)](https://utkarshhadgekar-portfolio.vercel.app/)
 
