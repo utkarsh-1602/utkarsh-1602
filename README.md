@@ -26,7 +26,6 @@
 - 🍄 Pro Approach: **In Every Project I've created Issues (closed/open) which help me to document every piece of Code useful for anytime Revision.**
 
 ###
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=utkarsh-1602&label=Profile%20views&color=0e75b6&style=flat" alt="xv" /> 
   <img src="https://img.shields.io/github/stars/utkarsh-1602?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" style="margin: 0 auto; display: block;" />
@@ -34,6 +33,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh-1602&show_icons=true&locale=en&layout=compact" alt="xv" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh-1602&show_icons=true&locale=en" alt="xv" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-1602&" alt="xv" /></p>
+<h3 align="left">Github Statistics</h3>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh-1602&theme=discord&column=8&margin-w=10&margin-h=10" alt="logo" /></p>
+
 
 [![An image of @utkarsh1602's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utkarsh1602)](https://holopin.io/@utkarsh1602)
 ###  Tech Stack 
