@@ -7,13 +7,13 @@
 
 ### **My Live Websites:**
 
-- [**Nebula Network Social Media App**](https://nebula-network-social-media-app.vercel.app/)
+- [**Nebula Network**](https://nebula-network-social-media-app.vercel.app/)
 
 - [**NFT Collection**](https://nft-collection-2022-453psdp68-utkarsh-1602.vercel.app/)
 
 - [**Sorting Visualizer**](https://effervescent-froyo-adaa4f.netlify.app/)
 
-- [**E-commerce Admin**](https://ecommerce-admin-mauve-psi.vercel.app/)
+- [**E-commerce CMS**](https://ecommerce-admin-mauve-psi.vercel.app/)
 
 - [**E-commerce Store**](https://ecommerce-store-self-two.vercel.app/)
 
