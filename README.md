@@ -25,8 +25,6 @@
 
 - 🤝 I’m good at Project Management, System Architecture, Leadership & Decision making and Collaborative Communication.
 
-- 👨‍💻 My Portfolio & Projects [(Portfolio)](https://portfolio-website-2024.vercel.app/)
-
 - 📝 I'm active on Twitter, I tweet about A.I, Startups, Podcasts, Books, Personal-Development. [https://twitter.com/hey_utkarshh](https://twitter.com/hey_utkarshh)
 
 - 💬 Ask me about **AI, Full-stack, Self-Improvement, Podcasts, Books, Travel & Life-Experiences !**
