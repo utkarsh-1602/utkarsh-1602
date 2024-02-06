@@ -5,18 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118df290e2b23901b41121cac94b9b4e8db24db04b&rid=giphy.gif&ct=g">
 <p align="left"> <a href="https://twitter.com/hey_utkarshh" target="blank"><img src="https://img.shields.io/twitter/follow/hey_utkarshh?logo=twitter&style=for-the-badge" alt="hey_utkarshh" /></a> </p>
 
-### **My Live Websites:**
-
-- [**Nebula Network**](https://nebula-network-social-media-app.vercel.app/)
-
-- [**NFT Collection**](https://nft-collection-2022-453psdp68-utkarsh-1602.vercel.app/)
-
-- [**Sorting Visualizer**](https://effervescent-froyo-adaa4f.netlify.app/)
-
-- [**E-commerce CMS**](https://ecommerce-admin-mauve-psi.vercel.app/)
-
-- [**E-commerce Store**](https://ecommerce-store-self-two.vercel.app/)
-
 - 🔭 A **Software Developer** with experince in Full Stack Development with understanding in delivering software solutions based on business requirements.
 
 - 🌱 My interest lies in AI, Automation, DevOps and Web Security.
