@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Utkarsh Hadgekar</h1>
-<h4 align="center">A passionate Full-stack developer
+<h4 align="center">A passionate Software developer
 </h4>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118df290e2b23901b41121cac94b9b4e8db24db04b&rid=giphy.gif&ct=g">
@@ -17,7 +17,7 @@
 
 - [**E-commerce Store**](https://ecommerce-store-self-two.vercel.app/)
 
-- 🔭 A **Full stack Developer** with expertise in understanding and delivering software solutions based on business requirements.
+- 🔭 A **Software Developer** with experince in Full Stack Development with understanding in delivering software solutions based on business requirements.
 
 - 🌱 My interest lies in AI, Automation, DevOps and Web Security.
 
