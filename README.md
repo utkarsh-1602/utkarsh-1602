@@ -59,6 +59,13 @@
   <a href="https://twitter.com/hey_utkarshh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+<a href="https://hashnode.com/@utkarshAI" target="_blank">
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="35" alt="Hashnode logo"  />
+</a>
+<a href="https://leetcode.com/utkarsh_uh/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="35" alt="Leetcode logo"  />
+</a>
+  
 </div>
 
 ###
