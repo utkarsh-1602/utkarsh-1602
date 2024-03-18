@@ -36,11 +36,15 @@
 
 
 [![An image of @utkarsh1602's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utkarsh1602)](https://holopin.io/@utkarsh1602)
+<a href="https://app.daily.dev/utkarshhadgekar"><img src="https://api.daily.dev/devcards/v2/zMnmw5mZuCA4y4Asa75ML.png?r=wh3&type=wide" width="652" alt="Utkarsh Hadgekar's Dev Card"/></a>
+
+
 ###  Tech Stack 
 
  <a href="https://skillicons.dev" align="center">
     <img align="center" src="https://skillicons.dev/icons?i=typescript,c,cpp,py,java,html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,mysql,postgres,mongodb,git,github,firebase,appwrite,ps,figma,discord,vite,linux,docker,redux,solidity" />
   </a>
+
 
 ### Reach Out
 
@@ -65,7 +69,6 @@
 <a href="https://leetcode.com/utkarsh_uh/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="35" alt="Leetcode logo"  />
 </a>
-  
 </div>
 
 ###
