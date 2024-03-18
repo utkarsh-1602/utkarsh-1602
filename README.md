@@ -35,8 +35,6 @@
 <h3 align="left">Github Statistics</h3>
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh-1602&theme=discord&column=8&margin-w=10&margin-h=10" alt="logo" /></p>
 
-## Track my Daily Code Progress <a href="https://github.com/users/utkarsh-1602/projects/6" style="text-decoration: none; color: green;">👉 click here</a>
-
 ###  Tech Stack 
 
  <a href="https://skillicons.dev" align="center">
