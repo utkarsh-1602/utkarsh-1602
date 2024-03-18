@@ -36,7 +36,9 @@
 
 
 [![An image of @utkarsh1602's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utkarsh1602)](https://holopin.io/@utkarsh1602)
-<a href="https://app.daily.dev/utkarshhadgekar"><img src="https://api.daily.dev/devcards/v2/zMnmw5mZuCA4y4Asa75ML.png?r=wh3&type=wide" width="652" alt="Utkarsh Hadgekar's Dev Card"/></a>
+
+<a href="https://app.daily.dev/hey_utkarshh"><img src="https://api.daily.dev/devcards/v2/zMnmw5mZuCA4y4Asa75ML.png?type=wide&r=fct" width="652" alt="Utkarsh Hadgekar's Dev Card"/></a>
+
 
 
 ###  Tech Stack 
