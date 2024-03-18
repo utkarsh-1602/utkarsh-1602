@@ -23,6 +23,7 @@
 
 - 🍄 Pro Approach: **In Every Project I've created Issues (closed/open) which help me to document every piece of Code useful for anytime Revision.**
 
+
 ###
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=utkarsh-1602&label=Profile%20views&color=0e75b6&style=flat" alt="xv" /> 
@@ -34,11 +35,7 @@
 <h3 align="left">Github Statistics</h3>
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh-1602&theme=discord&column=8&margin-w=10&margin-h=10" alt="logo" /></p>
 
-
-[![An image of @utkarsh1602's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utkarsh1602)](https://holopin.io/@utkarsh1602)
-
-
-
+## Track my Daily Code Progress <a href="https://github.com/users/utkarsh-1602/projects/6" style="text-decoration: none; color: green;">👉 click here</a>
 
 ###  Tech Stack 
 
