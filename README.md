@@ -15,7 +15,7 @@
 
 - 📝 I'm active on Twitter, I tweet about A.I, Startups, Podcasts, Books, Personal-Development. [https://twitter.com/hey_utkarshh](https://twitter.com/hey_utkarshh)
 
-- 💬 Ask me about **Backend, Cloud, Finace, Productivity, Podcasts, Books, Travel & Life-Experiences !**
+- 💬 Ask me about **Backend, Cloud, Finance, Productivity, Podcasts, Books, Travel & Life-Experiences !**
 
 - 📫 How to reach me **utkarshuh16@gmail.com**
 
