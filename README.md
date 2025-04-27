@@ -5,24 +5,13 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118df290e2b23901b41121cac94b9b4e8db24db04b&rid=giphy.gif&ct=g">
 <p align="left"> <a href="https://twitter.com/hey_utkarshh" target="blank"><img src="https://img.shields.io/twitter/follow/hey_utkarshh?logo=twitter&style=for-the-badge" alt="hey_utkarshh" /></a> </p>
 
-- 🔭 A **Software Developer** with expertise in Backend Development and understanding in delivering software solutions based on business requirements.
+- 🔭 I'm an Operations Support Engineer. My Job includes Managing Critical Processes across various platforms like - Automation anywhere, Control-M and Alteryx. As I'm in the Fintech Space, these Platforms Processes Sensitive Financial Data at Scale, that we Support and Manage. I look into Process Optimization, handling Operational Efficiencies and stakeholder collaboration, Yeah that's my thing! I enjoy connecting the dots between systems, people, and outcomes.
 
-- 🌱 My interest lies in AI, Automation, DevOps and Web Security.
-
-- 👯 I’m Exploring the World of **DevOps** and Looking to Collaborate on it. 
-
-- 🤝 I’m good at Project Management, System Architecture, Leadership & Decision making and Collaborative Communication.
-
-- 📝 I'm active on Twitter, I tweet about A.I, Startups, Podcasts, Books, Personal-Development. [https://twitter.com/hey_utkarshh](https://twitter.com/hey_utkarshh)
-
-- 💬 Ask me about **Backend, Cloud, Finance, Productivity, Podcasts, Books, Travel & Life-Experiences !**
+- 🌱 My interest lies in AI, Automation, Strategic Thinking, Decision-Making and Personal Branding.
 
 - 📫 How to reach me **utkarshuh16@gmail.com**
 
-- ⚡ Fun fact **You can learn a lot from a book, it's the way how you Implement it.**
-
-- 🍄 Pro Approach: **In Every Project I've created Issues (closed/open) which help me to document every piece of Code useful for anytime Revision.**
-
+- ⚡ Fun fact **The More you fail, the more likely you will get success Earlier.**
 
 ###
 <p align="left"> 
