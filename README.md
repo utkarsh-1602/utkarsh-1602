@@ -2,7 +2,7 @@
 <h4 align="center"> Associate Developer (Operations) @Stratacent | Data-Driven Problem Solving
 </h4>
 
-![Profile Image](URL-to-your-image)  <!-- Replace this URL with your actual image URL -->
+![Profile Image](https://github.com/utkarsh-1602/utkarsh-1602/blob/main/profilepic.png?raw=true)  <!-- Replace this URL with your actual image URL -->
 
 - 🔭 I'm an Operations Support Engineer. My Job includes Managing Critical Processes across various platforms like - Automation anywhere, Control-M and Alteryx. As I'm in the Fintech Space, these Platforms Processes Sensitive Financial Data at Scale, that we Support and Manage. I look into Process Optimization, handling Operational Efficiencies and stakeholder collaboration, Yeah that's my thing! I enjoy connecting the dots between systems, people, and outcomes.
 
