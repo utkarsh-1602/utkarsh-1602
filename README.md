@@ -6,6 +6,7 @@
   <img src="https://github.com/utkarsh-1602/utkarsh-1602/blob/main/profilepic.png?raw=true" alt="Profile Image" width="600" />
 </div>
 
+
 - 🔭 I'm an Operations Support Engineer. My Job includes Managing Critical Processes across various platforms like - Automation anywhere, Control-M and Alteryx. As I'm in the Fintech Space, these Platforms Processes Sensitive Financial Data at Scale, that we Support and Manage. I look into Process Optimization, handling Operational Efficiencies and stakeholder collaboration, Yeah that's my thing! I enjoy connecting the dots between systems, people, and outcomes.
 
 - 🌱 My interest lies in AI, Automation, Strategic Thinking, Decision-Making and Personal Branding.
