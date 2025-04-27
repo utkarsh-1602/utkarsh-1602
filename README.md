@@ -1,9 +1,7 @@
 <h1 align="center">Hey 👋 I'm Utkarsh Hadgekar</h1>
-<h4 align="center">A passionate Software developer
+<h4 align="center"> Associate Developer (Operations) @Stratacent | Data-Driven Problem Solving
 </h4>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118df290e2b23901b41121cac94b9b4e8db24db04b&rid=giphy.gif&ct=g">
-<p align="left"> <a href="https://twitter.com/hey_utkarshh" target="blank"><img src="https://img.shields.io/twitter/follow/hey_utkarshh?logo=twitter&style=for-the-badge" alt="hey_utkarshh" /></a> </p>
 
 - 🔭 I'm an Operations Support Engineer. My Job includes Managing Critical Processes across various platforms like - Automation anywhere, Control-M and Alteryx. As I'm in the Fintech Space, these Platforms Processes Sensitive Financial Data at Scale, that we Support and Manage. I look into Process Optimization, handling Operational Efficiencies and stakeholder collaboration, Yeah that's my thing! I enjoy connecting the dots between systems, people, and outcomes.
 
