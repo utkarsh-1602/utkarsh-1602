@@ -1,60 +1,156 @@
 <h1 align="center">Hey 👋 I'm Utkarsh Hadgekar</h1>
-<h4 align="center"> Associate Developer (Operations) @Stratacent | Data-Driven Problem Solving
+
+<h4 align="center">
+  Aspiring Product Manager | Product Operations | AI & Automation
 </h4>
 
-<div align="center">
-  <img src="https://github.com/utkarsh-1602/utkarsh-1602/blob/main/profilepic.png?raw=true" alt="Profile Image" width="600" />
-</div>
+---
 
+### 👋 About Me
 
-- 🔭 I'm an Operations Support Engineer. My Job includes Managing Critical Processes across various platforms like - Automation anywhere, Control-M and Alteryx. As I'm in the Fintech Space, these Platforms Processes Sensitive Financial Data at Scale, that we Support and Manage. I look into Process Optimization, handling Operational Efficiencies and stakeholder collaboration, Yeah that's my thing! I enjoy connecting the dots between systems, people, and outcomes.
+I'm an **Aspiring Product Manager** with 2+ years of experience working at the intersection of **product, technology, operations, and data**.
 
-- 🌱 My interest lies in AI, Automation, Strategic Thinking, Decision-Making and Personal Branding.
+At Stratacent, I work in Product Operations, where I translate operational problems across **50+ automation workflows** into product improvements, collaborate with product and engineering teams, and use data-driven prioritization to influence roadmap decisions.
 
-- 📫 How to reach me **utkarshuh16@gmail.com**
+I've also automated **10+ manual processes using Microsoft Power Automate**, reducing processing time by **40%** and eliminating recurring errors.
 
-- ⚡ Fun fact **The More you fail, the more likely you will get success Earlier.**
+My product interests include:
 
-###
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=utkarsh-1602&label=Profile%20views&color=0e75b6&style=flat" alt="xv" /> 
-  <img src="https://img.shields.io/github/stars/utkarsh-1602?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" style="margin: 0 auto; display: block;" />
+* 🧠 Product Discovery & User Research
+* 📊 Product Analytics & Data-Driven Decisions
+* 📝 PRDs & Product Strategy
+* 🚀 Roadmapping & Prioritization
+* 🤖 AI & Automation
+* 🎯 User Experience & Growth
+* 💡 Building and experimenting with products
+
+### 🛠️ Product Skills
+
+**Product Management**
+
+* Product Strategy & Roadmapping
+* Product Discovery
+* User Research
+* PRD Writing
+* RICE Prioritization
+* Root Cause Analysis
+* Stakeholder Management
+* GTM Strategy
+* Metrics & KPI Tracking
+* A/B Testing
+* Process Optimization
+
+**Product & Analytics Tools**
+
+* SQL
+* Mixpanel
+* Amplitude
+* Google Analytics
+* Tableau
+* Jira
+* Figma
+* Postman
+* Microsoft Power Automate
+* Agile / Scrum
+
+### 🚀 Featured Projects
+
+#### 📈 NEWME — Doubling AOV in 12 Months
+
+Product case study focused on increasing Average Order Value through user research, competitive analysis, UX improvements, prioritization, and GTM strategy.
+
+* Analyzed 4 competitors
+* Surveyed 52 users and interviewed 5
+* Created personas and user journeys
+* Designed checkout wireframes
+* Applied RICE prioritization
+* Developed a 12-month GTM strategy
+
+🔗 **View Case Study**
+
+#### 💰 Smart Save — Jar Fintech PRD
+
+A product case study focused on improving user engagement and savings behavior.
+
+* Conducted user research
+* Mapped end-to-end user journeys
+* Identified engagement problems
+* Designed behavioral nudges
+* Authored a comprehensive PRD
+
+🔗 **View Case Study**
+
+#### 🛒 Dreamwares — E-commerce CMS
+
+Built a no-code-like CMS platform allowing e-commerce admins to:
+
+* Design storefronts
+* Customize content
+* Manage SKUs dynamically
+* Manage e-commerce operations
+
+🔗 **View Project**
+
+### 💼 Experience
+
+**Stratacent — Associate Developer (Product Operations)**
+2024 – Present
+
+* Translated failures across 50+ automation workflows into product problems.
+* Influenced 3+ roadmap items using impact vs. effort prioritization.
+* Automated 10+ processes using Power Automate, reducing processing time by 40%.
+* Worked as a proxy APM with product, engineering, QA, and business teams.
+* Defined acceptance criteria and validated product releases.
+
+**Askgalore Digital — Blockchain Development Intern**
+2023
+
+* Designed and deployed 5+ Ethereum smart contracts.
+* Collaborated with product and design teams to ship 3 full-stack applications.
+* Translated user problems into technical solutions.
+
+### 🎓 Education
+
+**Airtribe**
+Product Management | 2024–2025
+
+**PES College of Engineering, Aurangabad**
+B.Tech — Computer Science | 2019–2023
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarsh-1602&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh-1602&show_icons=true&locale=en&layout=compact" alt="xv" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh-1602&show_icons=true&locale=en" alt="xv" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-1602&" alt="xv" /></p>
-<h3 align="left">Github Statistics</h3>
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh-1602&theme=discord&column=8&margin-w=10&margin-h=10" alt="logo" /></p>
 
-###  Tech Stack 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh-1602&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
- <a href="https://skillicons.dev" align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=typescript,c,cpp,py,java,html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,mysql,postgres,mongodb,git,github,firebase,appwrite,ps,figma,discord,vite,linux,docker,redux,solidity" />
-  </a>
-
-
-### Reach Out
-
-<img align="right" height="150" src="https://media.tenor.com/5UGuQ1T3DDsAAAAC/naruto-anime.gif"  />
+### 🤝 Let's Connect
 
 <div align="left">
-  <a href="utkarsh#9835" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=utkarsh9835&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="utkarshuh16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=utkarshuh16@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/utkarsh-hadgekar-9a0b411a5/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+
+<a href="https://www.linkedin.com/in/utkarsh-hadgekar-9a0b411a5/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+</a>
+
+<a href="mailto:utkarshuh16@gmail.com" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Email" />
+</a>
+
 <a href="https://hashnode.com/@utkarshAI" target="_blank">
-<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="35" alt="Hashnode logo"  />
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="35" alt="Hashnode" />
 </a>
+
 <a href="https://leetcode.com/utkarsh_uh/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="35" alt="Leetcode logo"  />
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" height="35" alt="LeetCode" />
 </a>
+
 </div>
 
-###
+---
 
-<br clear="both">
+<p align="center">
+  <i>Building products, solving problems, and learning along the way.</i>
+</p>
