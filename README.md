@@ -117,15 +117,6 @@ Product Management | 2024–2025
 **PES College of Engineering, Aurangabad**
 B.Tech — Computer Science | 2019–2023
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarsh-1602&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh-1602&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
 ### 🤝 Let's Connect
 
