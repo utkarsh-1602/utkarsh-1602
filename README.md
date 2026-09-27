@@ -1,124 +1,184 @@
 <h1 align="center">Hey 👋 I'm Utkarsh Hadgekar</h1>
 
 <h4 align="center">
-  Aspiring Product Manager | Product Operations | AI & Automation
+  Product Operations | Automation | Data | AI
 </h4>
+
+<p align="center">
+  Building products, automating processes, and turning operational problems into measurable improvements.
+</p>
 
 ---
 
-### 👋 About Me
+## 👋 About Me
 
-I'm an **Aspiring Product Manager** with 2+ years of experience working at the intersection of **product, technology, operations, and data**.
+I'm a **Product Operations & Automation professional with 2.5+ years of experience** working across product, technology, data, and operations.
 
-At Stratacent, I work in Product Operations, where I translate operational problems across **50+ automation workflows** into product improvements, collaborate with product and engineering teams, and use data-driven prioritization to influence roadmap decisions.
+At **Stratacent**, I work across **50+ production automation workflows**, where I analyze operational issues, identify process gaps, build automation solutions, and collaborate with Product, Engineering, QA, and Business teams to drive improvements.
 
-I've also automated **10+ manual processes using Microsoft Power Automate**, reducing processing time by **40%** and eliminating recurring errors.
+Some of my work includes:
 
-My product interests include:
+- ⚙️ Automated **20+ manual processes** using Microsoft Power Automate
+- 📉 Reduced processing time by **40%**
+- 🐍 Built **Python-based automation enhancements** using Jupyter Notebooks
+- 📊 Built **Microsoft Fabric dashboards** using Power Automate data
+- 🔍 Analyzed workflow failures and operational data to identify recurring problems
+- 🚀 Contributed to product improvements through prioritization, requirements, and release validation
 
-* 🧠 Product Discovery & User Research
-* 📊 Product Analytics & Data-Driven Decisions
-* 📝 PRDs & Product Strategy
-* 🚀 Roadmapping & Prioritization
-* 🤖 AI & Automation
-* 🎯 User Experience & Growth
-* 💡 Building and experimenting with products
+I'm particularly interested in **Product Management, Product Analytics, Automation, Data, AI, and building useful products.**
 
-### 🛠️ Product Skills
+---
 
-**Product Management**
+## 🛠️ Skills
 
-* Product Strategy & Roadmapping
-* Product Discovery
-* User Research
-* PRD Writing
-* RICE Prioritization
-* Root Cause Analysis
-* Stakeholder Management
-* GTM Strategy
-* Metrics & KPI Tracking
-* A/B Testing
-* Process Optimization
+### Product & Business
 
-**Product & Analytics Tools**
+- Product Discovery
+- User Research
+- PRD Writing
+- Product Strategy
+- Roadmapping
+- RICE Prioritization
+- Root Cause Analysis
+- Stakeholder Management
+- Product Metrics & KPIs
+- Process Optimization
+- GTM Strategy
 
-* SQL
-* Mixpanel
-* Amplitude
-* Google Analytics
-* Tableau
-* Jira
-* Figma
-* Postman
-* Microsoft Power Automate
-* Agile / Scrum
+### Data & Analytics
 
-### 🚀 Featured Projects
+- SQL
+- Python
+- Microsoft Fabric
+- Tableau
+- Power BI
+- Mixpanel
+- Amplitude
+- Google Analytics
+- Data Analysis
 
-#### 📈 NEWME — Doubling AOV in 12 Months
+### Automation & Engineering
 
-Product case study focused on increasing Average Order Value through user research, competitive analysis, UX improvements, prioritization, and GTM strategy.
+- Microsoft Power Automate
+- REST APIs
+- Postman
+- JavaScript
+- Git
+- Automation Workflows
+- Jupyter Notebooks
+- Agile / Scrum
 
-* Analyzed 4 competitors
-* Surveyed 52 users and interviewed 5
-* Created personas and user journeys
-* Designed checkout wireframes
-* Applied RICE prioritization
-* Developed a 12-month GTM strategy
+---
 
-🔗 **View Case Study**
+## 🚀 Featured Projects
 
-#### 💰 Smart Save — Jar Fintech PRD
+### 📈 NEWME — Doubling AOV in 12 Months
+
+A product strategy case study focused on increasing Average Order Value through user research, competitive analysis, UX improvements, prioritization, and GTM strategy.
+
+**What I worked on:**
+
+- Analyzed **4 competitors**
+- Surveyed **52 users** and interviewed **5 users**
+- Created personas and user journeys
+- Designed checkout wireframes
+- Applied RICE prioritization
+- Developed a 12-month GTM strategy
+
+🔗 **[View Case Study](#)**
+
+---
+
+### 🤖 FeedbackIQ — AI Customer Feedback Analyzer
+
+An AI-powered product that analyzes customer feedback to identify sentiment, recurring pain points, themes, and product priorities.
+
+**Built with:**
+
+`React` `TypeScript` `Supabase` `Gemini API`
+
+**Key capabilities:**
+
+- Customer sentiment analysis
+- Pain-point identification
+- Theme detection
+- Product issue prioritization
+- AI-generated insights
+- Feedback dashboard
+
+🔗 **[View Project](#)**
+
+---
+
+### 💰 Smart Save — Jar Fintech PRD
 
 A product case study focused on improving user engagement and savings behavior.
 
-* Conducted user research
-* Mapped end-to-end user journeys
-* Identified engagement problems
-* Designed behavioral nudges
-* Authored a comprehensive PRD
+**What I worked on:**
 
-🔗 **View Case Study**
+- Conducted user research
+- Mapped end-to-end user journeys
+- Identified engagement problems
+- Designed behavioral nudges
+- Authored a comprehensive PRD
+- Defined product metrics and success criteria
 
-#### 🛒 Dreamwares — E-commerce CMS
+🔗 **[View Case Study](#)**
 
-Built a no-code-like CMS platform allowing e-commerce admins to:
+---
 
-* Design storefronts
-* Customize content
-* Manage SKUs dynamically
-* Manage e-commerce operations
+### 🛒 Dreamwares — E-commerce CMS
 
-🔗 **View Project**
+A no-code-like CMS platform designed to help e-commerce administrators manage storefronts and operations.
 
-### 💼 Experience
+**Key capabilities:**
 
-**Stratacent — Associate Developer (Product Operations)**
-2024 – Present
+- Storefront customization
+- Dynamic SKU management
+- Content management
+- E-commerce operations
 
-* Translated failures across 50+ automation workflows into product problems.
-* Influenced 3+ roadmap items using impact vs. effort prioritization.
-* Automated 10+ processes using Power Automate, reducing processing time by 40%.
-* Worked as a proxy APM with product, engineering, QA, and business teams.
-* Defined acceptance criteria and validated product releases.
+🔗 **[View Project](#)**
 
-**Askgalore Digital — Blockchain Development Intern**
-2023
+---
 
-* Designed and deployed 5+ Ethereum smart contracts.
-* Collaborated with product and design teams to ship 3 full-stack applications.
-* Translated user problems into technical solutions.
+## 💼 Experience
 
-### 🎓 Education
+### Stratacent — Associate Developer (Product Operations)
+**2024 – Present**
 
-**Airtribe**
+- Manage and optimize **50+ production automation workflows**, investigating failures and recurring operational issues.
+- Automated **20+ manual processes using Power Automate**, reducing processing time by **40%**.
+- Built **Python-based automation enhancements** using Jupyter Notebooks to improve process efficiency.
+- Built **Microsoft Fabric dashboards** powered by Power Automate data to improve operational visibility.
+- Analyzed operational data and incident trends to identify process gaps and prioritize improvements.
+- Collaborated with **Product, Engineering, QA, and Business teams** on requirements, acceptance criteria, solution design, and release validation.
+- Contributed to **3+ improvement initiatives** using impact, effort, and operational risk analysis.
+
+---
+
+## 🎓 Education
+
+**Airtribe**  
 Product Management | 2024–2025
 
-**PES College of Engineering, Aurangabad**
+**PES College of Engineering, Aurangabad**  
 B.Tech — Computer Science | 2019–2023
 
+---
 
-### 🤝 Let's Connect
+## 📚 Currently Exploring
+
+- Product Analytics & Experimentation
+- AI-powered Products
+- Automation & AI Agents
+- Data-driven Product Management
+- Product Strategy & Growth
+- Building and launching digital products
+
+---
+
+## 🤝 Let's Connect
 
 <div align="left">
 
@@ -143,5 +203,5 @@ B.Tech — Computer Science | 2019–2023
 ---
 
 <p align="center">
-  <i>Building products, solving problems, and learning along the way.</i>
+  <i>Building products, automating workflows, and solving real-world problems with technology.</i>
 </p>
